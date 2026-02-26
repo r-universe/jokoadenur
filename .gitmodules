@@ -5,3 +5,6 @@
 [submodule "numspellR"]
 	path = numspellR
 	url = https://github.com/cran/numspellR
+[submodule "senseR"]
+	path = senseR
+	url = https://github.com/jokoadenur/senser
